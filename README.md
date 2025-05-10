@@ -52,14 +52,7 @@ Open your web browser and navigate to:
 http://localhost:8080
 ```
 
-### 5. Add Images
 
-Add images for successful build and data ingestion here.
-<img src="public/1.jpeg" alt="Successful Build Image" />
-<img src="public/2.jpeg" alt="Data Ingestion Image" />
-<img src="public/3.jpeg" alt="Data Ingestion Image" />
-<img src="public/4.jpeg" alt="Data Ingestion Image" />
-<img src="public/5.jpeg" alt="Data Ingestion Image" />
 
 
 ## Usage Guide
